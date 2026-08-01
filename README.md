@@ -12,6 +12,7 @@ This data has so far been found and extracted by ChatGPT.
 - Eskom lost approximately R217 billion in 2026
 - Eskom should be producing  121 TWh extra.
 
-This implies SA is producing about 121 TWh privately. 
+This implies SA is producing about 121 TWh privately. <br>
+Check out the Eskom [https://www.eskom.co.za/dataportal/supply-side/station-build-up-for-the-last-7-days/](daily power prodcution), and compared it to. 
 
 
