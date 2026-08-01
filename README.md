@@ -1,6 +1,4 @@
-![Alt Text](./Solar.png)
-
-
+![Eskom Estimate](./Eskom.png)
 
 # Eskom losses / SA private power production 
 This is just here to document the power production of Eskom and how it has dropped since load-shedding times. This is due to the installation 
